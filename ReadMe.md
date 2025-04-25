@@ -1,6 +1,6 @@
 # 🛡️ MtProxy Guard Bot
 
-![MtProxy Guard Bot Banner](./images/banner.jpg)
+![MtProxy Guard Bot Banner](./images/banner.png)
 
 ## 👋 Welcome
 
@@ -17,16 +17,8 @@ Welcome to **MtProxy Guard Bot** ([@MtProxySG_bot](https://t.me/MtProxySG_bot)),
 - 🌖 24/7 Active Service
 - 👍 300+ Proxies Available
 
-## 📸 Screenshots
-
-### Main Menu Interface
-![Main Menu Screenshot](./images/screenshot1.png)
-
-### Country Selection Menu
-![Country Selection Screenshot](./images/screenshot2.png)
-
-### Premium Proxy Information
-![Premium Proxy Screenshot](./images/screenshot3.png)
+## 📸 Tutorial
+![Main Tutorial](./images/tutorial.mp4)
 
 ## 🧑‍💻 How To Use
 
