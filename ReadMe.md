@@ -18,7 +18,7 @@ Welcome to **MtProxy Guard Bot** ([@MtProxySG_bot](https://t.me/MtProxySG_bot)),
 - 👍 300+ Proxies Available
 
 ## 📸 Tutorial
-![Main Tutorial](./images/Tutorial.mp4)
+![Main Tutorial](https://t.me/MtProxySG/10)
 
 ## 🧑‍💻 How To Use
 
