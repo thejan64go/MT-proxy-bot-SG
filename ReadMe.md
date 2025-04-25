@@ -1,63 +1,88 @@
-# 🛡️ MtProxy Guard Bot
+# 🔐 MtProxy Guard Bot | Your Gateway to Secure Telegram Access
 
-![MtProxy Guard Bot Banner](./images/banner.png)
+![MtProxy Guard Bot - Secure Your Connection](./images/banner.png)
 
-## 👋 Welcome
+<div align="center">
+  <a href="https://t.me/MtProxySG_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
+  <a href="https://t.me/MtProxySG"><img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram" alt="Updates Channel"></a>
+  <img src="https://img.shields.io/badge/Proxies-300%2B-success?style=for-the-badge" alt="300+ Proxies">
+  <img src="https://img.shields.io/badge/Countries-18%2B-orange?style=for-the-badge" alt="18+ Countries">
+</div>
 
-Welcome to **MtProxy Guard Bot** ([@MtProxySG_bot](https://t.me/MtProxySG_bot)), your reliable Telegram bot for accessing high-quality MTProxies. Whether you're looking for the latest proxies, searching by country or data center, or seeking premium options, MtProxy Guard Bot has got you covered!
+## 🌊 Sail Through Digital Barriers
 
-## 🔥 Features
+In a world where digital freedom faces increasing challenges, **MtProxy Guard Bot** (@MtProxySG_bot) stands as your trusted navigator. Our mission is simple: provide seamless, secure access to Telegram through high-quality MTProxies that work when you need them most.
 
-- 🌐 Over 18 Countries Supported
-- ⭐️ Premium MTProxies Available
-- 🇸🇬 Country-Based Proxy Selection
-- 🆕 Daily Updated Proxies
-- 🔍 Comprehensive Proxy Data Lookup
-- 🖥️ Data Center (DC) Based Filtering
-- 🌖 24/7 Active Service
-- 👍 300+ Proxies Available
+## ✨ Why Choose MtProxy Guard Bot?
 
-## 📸 Tutorial
-![Main Tutorial](https://t.me/MtProxySG/10)
+Our bot isn't just another proxy provider—it's a comprehensive solution crafted with users in mind:
 
-## 🧑‍💻 How To Use
+### 🛡️ Core Capabilities
+| Feature | Description |
+|---------|-------------|
+| 🌏 **Global Coverage** | Access to proxies spanning 18+ countries worldwide |
+| 🔄 **Daily Refreshed** | New proxies added daily to ensure consistent performance |
+| 🔍 **Smart Selection** | Find proxies by country, data center, or performance metrics |
+| ⚡ **Lightning Fast** | Optimized for speed without compromising security |
+| 📊 **Detailed Stats** | Comprehensive information about each proxy's performance |
+| 🔐 **Secure Access** | Enhanced protection for your Telegram communications |
 
-1. Start the bot by searching for [@MtProxySG_bot](https://t.me/MtProxySG_bot) on Telegram
-2. Choose an option from the main menu
-3. Select a proxy that fits your needs (by country, data center, etc.)
-4. Follow the instructions provided to connect
-5. Enjoy secure and easy access to Telegram!
+### 🚀 User Experience
+- **Intuitive Interface**: Simple commands and clean menus
+- **Instant Connection**: From selection to connection in seconds
+- **24/7 Availability**: Access new proxies whenever you need them
+- **Zero Technical Hassle**: No complex setup required
 
-## ✨ Premium Proxies
+## 📖 Tutorial
+Check out our comprehensive tutorial in our Telegram channel: [MtProxy Guard Bot Tutorial](https://t.me/MtProxySG/10)
 
-Our premium proxies offer enhanced features for users who need reliable and high-performance connections:
+## 🧭 Navigation Guide
 
-- ✅ 100GB Bandwidth
-- 📆 30-Day Usage Period
-- 🚫 No Annoying Sponsored Channels
-- ⚡️ Secure & Private Connection
-- 📊 Detailed Statistics
-- 💬 Active Support Service
+```
+START → CHOOSE PROXY TYPE → SELECT LOCATION → CONNECT → ENJOY FREEDOM
+```
 
-To purchase a premium proxy, use the dedicated button in the bot interface.
+1. **First Contact**: Send `/start` to [@MtProxySG_bot](https://t.me/MtProxySG_bot)
+2. **Explore Options**: Choose from free or premium proxies
+3. **Refine Your Search**: Filter by country or data center (DC)
+4. **Make Your Selection**: Pick the proxy that meets your needs
+5. **Connect Securely**: Follow the simple connection instructions
+6. **Experience Freedom**: Enjoy uninterrupted access to Telegram!
 
-## 🔗 Links
+## 💎 Premium Experience
 
-- **Bot:** [@MtProxySG_bot](https://t.me/MtProxySG_bot)
-- **Updates Channel:** [@MtProxySG](https://t.me/MtProxySG)
+For those who demand nothing but the best, our **Premium Proxies** deliver excellence:
 
-## 🤝 Sharing
+### ✨ Premium Advantages
+- **🚄 Superior Speed**: Optimized for maximum performance
+- **📦 Generous Bandwidth**: 100GB allocation for your needs
+- **📅 Extended Validity**: Full 30-day usage period
+- **🛑 Ad-Free Experience**: No forced channel subscriptions
+- **🛡️ Enhanced Security**: Additional protection layers
+- **📱 Priority Support**: Dedicated assistance when needed
 
-Don't forget to share with your friends who might need reliable proxy services!
+<div align="center">
+  <img src="https://img.shields.io/badge/Premium-Upgrade_Available-gold?style=for-the-badge" alt="Premium Available">
+</div>
 
-## 📝 License
+## 🤝 Community
 
-[Include your license information here]
+Join our growing community of users who value digital freedom:
+
+- **Updates Channel**: [@MtProxySG](https://t.me/MtProxySG)
+- **Share**: Help friends and family connect securely
+- **Feedback**: Your input helps us improve
+
+## 📜 License
+
+[MIT License](LICENSE.md) - Feel free to use and modify within the terms of our license.
 
 ## 📞 Contact
 
-[Include your contact information here]
+- **Support**: Direct message to [@thejan_go](https://t.me/thejan_go)
 
 ---
-
-Built with ❤️ for the Telegram community
+<div align="center">
+  <p>Crafted with ❤️ for the global Telegram community</p>
+  <p>Empowering secure connections since 2023</p>
+</div>
