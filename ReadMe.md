@@ -62,7 +62,7 @@ For those who demand nothing but the best, our **Premium Proxies** deliver excel
 - **🛡️ Enhanced Security**: Additional protection layers
 - **📱 Priority Support**: Dedicated assistance when needed
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Premium-Upgrade_Available-gold?style=for-the-badge" alt="Premium Available">
 </div>
 
