@@ -1,7 +1,8 @@
 # 🔐 MtProxy Guard Bot | Your Gateway to Secure Telegram Access
+<div align="center">
 
 ![MtProxy Guard Bot - Secure Your Connection](./images/banner.png)
-
+</div>
 <div align="center">
   <a href="https://t.me/MtProxySG_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
   <a href="https://t.me/MtProxySG"><img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram" alt="Updates Channel"></a>
